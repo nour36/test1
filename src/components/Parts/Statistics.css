@@ -1,0 +1,18 @@
+
+.tex{
+    text-align:center;
+}
+.fl{
+    flex-direction: row;
+    justify-content: flex-start;
+    display: flex;
+    text-align: right;
+    
+    margin-left: 300px;
+}
+.mr{
+    margin-left: 950px;
+}
+.pmr{
+    margin-left: 650px;   
+}

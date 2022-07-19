@@ -1,0 +1,11 @@
+.elcCard {
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    text-align: right;
+    margin: 15px;
+    display: "flex",
+    
+  }

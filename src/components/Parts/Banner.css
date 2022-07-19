@@ -1,0 +1,22 @@
+.tex{
+    text-align: center
+    ;
+}
+.bt{
+    background-color: green;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+}
+.mr{
+    margin-left: 300px;
+}
+
+.smr{
+    margin-left: 450px;
+    width: 150px;
+    border-radius: 5px;
+}
+.inpt{
+    width: 400px;
+}

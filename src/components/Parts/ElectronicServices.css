@@ -1,0 +1,32 @@
+.tex{
+    text-align:center;
+}
+/* .mr{
+    margin-left: 950px;
+} */
+.all{
+    flex-direction: row;
+    display: flex;
+    margin-left: 400px;
+    
+}
+.fll{
+    flex-direction: row;
+    display: flex;
+    
+}
+.bkg{
+    background: lightseagreen;
+    height: 30px; 
+    border-radius: 5px;
+    margin-top: 13px;
+    margin-right: 5px;
+}
+.imggg{
+    height: 180px; 
+    margin-right: 40px;
+}
+.btn{
+    width: 400px;
+    height: 30px;
+}
